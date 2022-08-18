@@ -1,0 +1,1 @@
+Data analysis projects spanning across data wrangling (gathering, assessing and cleaning), Exploratory data analysis (EDA) and communication of insights.
