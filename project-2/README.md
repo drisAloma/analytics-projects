@@ -1,8 +1,8 @@
 <h1>Introduction</h1>
-<p>The dataset I will be wrangling (analyzing and visualizing) is the tweet archive of Twitter user <a href="https://twitter.com/dog_rates">@dog_rates</a>, also known as <a href="https://en.wikipedia.org/wiki/WeRateDogs">WeRateDogs</a>. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The account has over * million followers, this company was started by Matt Nelson. The WeRateDogs asks people to send photos of their dogs, then tweets selected photos rating and a humorous comment. Dos are rated on a scale of one to ten, but are invariably given rating in excess of the maximum such as "13/10". Popular posts are often re-posted on Instagram and Facebook.</p> 
+<p>The dataset is the tweet archive of Twitter user <a href="https://twitter.com/dog_rates">@dog_rates</a>, also known as <a href="https://en.wikipedia.org/wiki/WeRateDogs">WeRateDogs</a>. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The account has over * million followers, this company was started by Matt Nelson. The WeRateDogs asks people to send photos of their dogs, then tweets selected photos rating and a humorous comment. Dos are rated on a scale of one to ten, but are invariably given rating in excess of the maximum such as "13/10". Popular posts are often re-posted on Instagram and Facebook.</p> 
 <p align="center"><img src="https://video.udacity-data.com/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg" width="800"></p>
 
-In this project, i worked majorly with three datasets:
+The final dataset used for this project was a combination of the following datasets:
 <p><h3>1. Enhanced Twitter Archive</h3>
 The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. This data was later filtered for tweets with ratings only, resulting in 2356 tweets.</p>
 <p><h3>2. Additional Data via the Twitter API</h3>
