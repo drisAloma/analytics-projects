@@ -8,9 +8,9 @@ N.B The encoding of the last column: "No" indicates the patient showed up to the
 
 <h2>Key Insights</h2>
 
-* Patients in the age group [60-70], roughly 86% of them, showed up for their appointments more compared to other each age groups.
-* By proportion, patients not scholarship showed up more for their appointments compared to those on scholarship.
+* Patients in the age group [60-70], roughly 86% of them, showed up for their appointments more compared to other age groups.
+* By proportion, patients not on scholarship showed up more for their appointments compared to those on scholarship.
 * Majority of the patients are not on scholarship.
-* There are more female patients than male.
+* There were more female patients than male.
 * Females have more health issues than males.
 * There are more alcoholic males than females.
