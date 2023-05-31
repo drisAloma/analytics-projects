@@ -4,7 +4,7 @@
 
 ## Dataset
 
-The dataset consists of information regarding 113937 loans including status, APR, Debt-to-Income ratio and other attributes associated with a loan and borrower from the peer-to-peer online credit marketplace, Prosper Funding LLC, between 2005 (when the company was founded) and 2014.
+The dataset consists of information on 113937 loans including status, APR, Debt-to-Income ratio and other attributes associated with a loan and borrower from the peer-to-peer online credit marketplace, Prosper Funding LLC, between 2005 (when the company was founded) and 2014.
 
 
 ## Summary of Findings
